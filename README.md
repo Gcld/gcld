@@ -52,7 +52,6 @@
   <li>Desenvolvimento de aplicações web responsivas e interativas utilizando <strong>React</strong> e <strong>Next.js</strong>.</li>
   <li>Implementação de sistemas de autenticação de usuários e comunicação com <strong>APIs REST</strong>.</li>
   <li>Aplicação de conceitos de usabilidade e acessibilidade para garantir a melhor experiência do usuário.</li>
-  <li>Os projetos "Fundamentos ReactJS" e "Ignite Timer" listados abaixo foram desenvolvidos durante este estágio.</li>
 </ul>
 </details>
 
