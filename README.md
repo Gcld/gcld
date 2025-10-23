@@ -57,6 +57,27 @@
 
 ---
 
+### 🎓 Formação Acadêmica
+
+<details open>
+<summary><strong>Bacharelado em Tecnologia da Informação | Universidade Federal do Rio Grande do Norte (UFRN)</strong></summary>
+<p><em>2021.1 - 2025.2 (Formando)</em></p>
+<ul>
+  <li>Foco em Desenvolvimento de Software, alinhado com as experiências profissionais.</li>
+  <li><strong>Destaques do Histórico Acadêmico:</strong>
+    <ul>
+<li>Desenvolvimento de Sistemas Web I (Média: 9.8)</li>
+<li>Boas Práticas de Programação (Média: 9.4)</li>
+<li>Introdução à Inteligência Artificial (Média: 9.6)</li>
+<li>Gestão de Projetos e Metodologias Ágeis (Cursando)</li>
+<li>Ciências de Dados (Cursando)</li>
+    </ul>
+  </li>
+</ul>
+</details>
+
+---
+
 ### 🛠️ Tecnologias e Ferramentas
 
 <table>
