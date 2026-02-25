@@ -12,7 +12,7 @@
 <h1 align="center">
   Olá, eu sou o Gabriel Costa 👋
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=20C20E&center=true&vCenter=true&width=480&lines=Desenvolvedor+Front-End;Expandindo+para+Full-Stack;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full-Stack;Graduando+em+IA;Apaixonado+por+Tecnologia" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -21,10 +21,10 @@
 ### 👨‍💻 Sobre Mim
 
 <p>
-  Sou um desenvolvedor focado em criar interfaces e experiências de usuário fluidas e impactantes. Com uma base sólida em <strong>Front-end</strong>, utilizando tecnologias como <strong>React, Next.js e Figma</strong>, estou atualmente expandindo minhas habilidades para o desenvolvimento <strong>Full-Stack</strong>.
+  Sou um desenvolvedor <strong>Full-Stack</strong> focado em criar soluções robustas, interfaces fluidas e experiências de usuário impactantes. Atualmente atuo como bolsista no Instituto Metrópole Digital (IMD/UFRN) no desenvolvimento de plataformas para cidades inteligentes.
 </p>
 <p>
-  Estou sempre em busca de novos desafios e oportunidades para aprender e aplicar conceitos de arquitetura de software, boas práticas de código e metodologias ágeis para construir soluções robustas e escaláveis.
+  Além da minha formação em Tecnologia da Informação, sou graduando em <strong>Inteligência Artificial</strong>. Estou sempre em busca de novos desafios, buscando unir o desenvolvimento de software de alta performance com o poder dos dados, integração IoT e modelos preditivos.
 </p>
 
 ---
@@ -32,8 +32,19 @@
 ### 💼 Experiência Profissional
 
 <details open>
+<summary><strong>Bolsista de Graduação Full-Stack | Projeto Embrapii (Gotiva e Zaori) / IMD</strong></summary>
+<p><em>Fevereiro de 2026 - Atualmente</em></p>
+<ul>
+  <li>Atuação no desenvolvimento e validação de uma plataforma inteligente para gestão urbana e orquestração de processos em cidades inteligentes.</li>
+  <li>Construção de dashboards dinâmicos multitemas e garantia de interoperabilidade com sistemas legados.</li>
+  <li>Desenvolvimento de software utilizando o ecossistema <strong>Java (Spring Boot, Spring WEB MVC)</strong> no back-end e tecnologias web (<strong>React/Next.js</strong>) no front-end.</li>
+  <li>Apoio na expansão de pipelines IoT/IA e aplicação de Edge AI para processamento descentralizado e alertas em tempo real.</li>
+</ul>
+</details>
+
+<details>
 <summary><strong>Estagiário de Desenvolvimento Full-Stack | Justiça Federal no Rio Grande do Norte (JFRN)</strong></summary>
-<p><em>Agosto de 2025 - Atualmente</em></p>
+<p><em>Agosto de 2025 - Janeiro de 2026</em></p>
 <ul>
   <li>Análise, desenvolvimento e manutenção de aplicações em <strong>Java</strong> com <strong>SpringBoot</strong>, <strong>Angular</strong> e <strong>JSF</strong>.</li>
   <li>Versionamento de código com <strong>GitLab</strong>, aplicando a metodologia <strong>GitFlow</strong> para gestão de branches.</li>
@@ -41,6 +52,7 @@
   <li>Utilização de bancos de dados <strong>Postgres</strong> e <strong>Oracle</strong>.</li>
   <li>Participação ativa em projetos baseados em metodologias ágeis (<strong>SCRUM</strong>), incluindo reuniões diárias, planejamento e retrospectivas.</li>
   <li>Desenvolvimento de testes automatizados para garantir a qualidade e a integridade do código.</li>
+  <li>Atualização e manutenção de todos os sites do ecossistema da JFRN.</li>
 </ul>
 </details>
 
@@ -59,22 +71,12 @@
 
 ### 🎓 Formação Acadêmica
 
-<details open>
+<summary><strong>Bacharelado em Inteligência Artificial | Universidade Federal do Rio Grande do Norte (UFRN)</strong></summary>
+<p><em>Janeiro de 2026 - Atualmente</em></p>
+
+
 <summary><strong>Bacharelado em Tecnologia da Informação | Universidade Federal do Rio Grande do Norte (UFRN)</strong></summary>
-<p><em>2021.1 - 2025.2 (Formando)</em></p>
-<ul>
-  <li>Foco em Desenvolvimento de Software, alinhado com as experiências profissionais.</li>
-  <li><strong>Destaques do Histórico Acadêmico:</strong>
-    <ul>
-<li>Desenvolvimento de Sistemas Web I (Média: 9.8)</li>
-<li>Boas Práticas de Programação (Média: 9.4)</li>
-<li>Introdução à Inteligência Artificial (Média: 9.6)</li>
-<li>Gestão de Projetos e Metodologias Ágeis (Cursando)</li>
-<li>Ciências de Dados (Cursando)</li>
-    </ul>
-  </li>
-</ul>
-</details>
+<p><em>2021 - 2025</em></p>
 
 ---
 
@@ -87,8 +89,8 @@
       <br><strong>Front-End</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
-      <br><strong>Back-End</strong>
+      <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python" />
+      <br><strong>Back-End & AI</strong>
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" />
@@ -105,18 +107,6 @@
   </tr>
 </table>
 
----
-
-### 🔥 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <a href="https://github.com/Gcld">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gcld&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gcld&layout=compact&langs_count=7&theme=dracula"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gcld&theme=dracula" alt="GitHub Streak" />
-</div>
-
----
 
 ### 🚀 Meus Projetos
 
