@@ -107,67 +107,6 @@
   </tr>
 </table>
 
-
-### 🚀 Meus Projetos
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Gatherize</h3>
-      <div align="center">
-        <p>Plataforma completa para gerenciamento de eventos. Criada para simplificar a organização e participação em eventos de todos os tipos.</p>
-        <a href="https://github.com/Gcld/gatherize">
-          <img src="https://img.shields.io/badge/Ver%20Repositório-302D41?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Stock Pilot</h3>
-      <div align="center">
-        <p>Sistema de gerenciamento de estoque projetado para ser intuitivo e eficiente, ajudando a controlar entradas e saídas de produtos.</p>
-        <a href="https://github.com/Gcld/stock_pilot">
-          <img src="https://img.shields.io/badge/Ver%20Repositório-302D41?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Pokémon Marketplace</h3>
-      <div align="center">
-        <p>Marketplace fictício para compra e venda de Pokémons, explorando conceitos de e-commerce em uma aplicação divertida.</p>
-        <a href="https://github.com/Gcld/05.09-Pokemon-Marketplace">
-          <img src="https://img.shields.io/badge/Ver%20Repositório-302D41?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">MyChef</h3>
-      <div align="center">
-        <p>Cardápio digital desenvolvido em colaboração. Minha maior contribuição foi o design da interface e experiência do usuário.</p>
-        <a href="https://github.com/HugoViniciusSF/MyChef">
-          <img src="https://img.shields.io/badge/Ver%20Repositório-302D41?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🎨 Meus Designs no Figma
-
-<p>Além de codificar, adoro criar protótipos e sistemas de design. Aqui estão alguns projetos que desenhei no Figma:</p>
-
-- 🎨 **Samanaú** – Remodelagem de projeto de visualização de dados de estações meteorológicas.
-  - **[🔗 Ver no Figma](https://www.figma.com/design/LfK80wEgQxqlVoQwAs14Ru/Samana%C3%BA?node-id=252-1745&t=TCEnmDhkRNHVxyic-1)**
-- ✨ **New Gatherize** – Redesign do meu projeto de gerenciamento de eventos com foco em UX.
-  - **[🔗 Ver no Figma](https://www.figma.com/design/veV3wkBNNftyukQ7TYmjte/New-Gatherize?m=dev)**
-- 📦 **Sistema de Gestão de Estoque** – Interface para a plataforma Stock Pilot.
-  - **[🔗 Ver no Figma](https://www.figma.com/design/FNVtWhzxOGlPubMorRiinq/Sistema-de-Gest%C3%A3o-de-Estoque?m=dev)**
-
----
-
 ### 📫 Contato
 
 <p align="center">
